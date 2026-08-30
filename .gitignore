@@ -1,0 +1,15 @@
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
+
+# Media / archives (kept out of the repo)
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.zip
